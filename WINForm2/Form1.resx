@@ -139,7 +139,8 @@
     <value>3</value>
   </data>
   <data name="removeVertexButton.Text" xml:space="preserve">
-    <value>rm</value>
+    <value>r
+m</value>
   </data>
   <data name="&gt;&gt;removeVertexButton.Name" xml:space="preserve">
     <value>removeVertexButton</value>

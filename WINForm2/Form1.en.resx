@@ -126,7 +126,7 @@
   <data name="groupBox3.Text" xml:space="preserve">
     <value>Import/Export</value>
   </data>
-  <data name="loadButton.Text" xml:space="preserve">
+  <data name="removeVertexButton.Text" xml:space="preserve">
     <value>Remove Vertex</value>
   </data>
   <data name="clearGraphButton.Text" xml:space="preserve">
@@ -141,7 +141,7 @@
   <data name="plLanguageButton.Text" xml:space="preserve">
     <value>Polish</value>
   </data>
-  <data name="removeVertexButton.Text" xml:space="preserve">
+  <data name="loadButton.Text" xml:space="preserve">
     <value>Open</value>
   </data>
   <data name="saveButton.Text" xml:space="preserve">

@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="loadButton.Text" xml:space="preserve">
+  <data name="removeVertexButton.Text" xml:space="preserve">
     <value>Usuń Wierzchołek</value>
   </data>
   <data name="clearGraphButton.Text" xml:space="preserve">
@@ -138,7 +138,7 @@
   <data name="groupBox2.Text" xml:space="preserve">
     <value>Język</value>
   </data>
-  <data name="removeVertexButton.Text" xml:space="preserve">
+  <data name="loadButton.Text" xml:space="preserve">
     <value>Wczytaj</value>
   </data>
   <data name="saveButton.Text" xml:space="preserve">
